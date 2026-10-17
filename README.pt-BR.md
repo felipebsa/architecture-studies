@@ -21,6 +21,7 @@ A pasta `examples/` é pros exemplos de código do que eu tô estudando.
 | 03 | Padrões arquiteturais e padrões de design | [en](notes/03-architectural-vs-design-patterns/architectural-vs-design-patterns.en.md) | [pt-BR](notes/03-architectural-vs-design-patterns/architectural-vs-design-patterns.pt-BR.md) |
 | 04 | Responsabilidades, SRP e SoC | [en](notes/04-responsibilities/responsibilities.en.md) | [pt-BR](notes/04-responsibilities/responsibilities.pt-BR.md) |
 | 05 | Fluxo de dependências vs fluxo de dados (DIP e DI) | [en](notes/05-dependency-flow/dependency-flow.en.md) | [pt-BR](notes/05-dependency-flow/dependency-flow.pt-BR.md) |
+| 06 | SOLID | [en](notes/06-solid/solid.en.md) | [pt-BR](notes/06-solid/solid.pt-BR.md) |
 
 ## Como eu estudo
 

@@ -21,6 +21,7 @@ The `examples/` folder is for code examples of what I'm studying.
 | 03 | Architectural patterns and design patterns | [en](notes/03-architectural-vs-design-patterns/architectural-vs-design-patterns.en.md) | [pt-BR](notes/03-architectural-vs-design-patterns/architectural-vs-design-patterns.pt-BR.md) |
 | 04 | Responsibilities, SRP and SoC | [en](notes/04-responsibilities/responsibilities.en.md) | [pt-BR](notes/04-responsibilities/responsibilities.pt-BR.md) |
 | 05 | Dependency flow vs data flow (DIP and DI) | [en](notes/05-dependency-flow/dependency-flow.en.md) | [pt-BR](notes/05-dependency-flow/dependency-flow.pt-BR.md) |
+| 06 | SOLID | [en](notes/06-solid/solid.en.md) | [pt-BR](notes/06-solid/solid.pt-BR.md) |
 
 ## How I study
 
